@@ -1,0 +1,6 @@
+Design a class that keeps track of the studenst food purchases at the campus cafeteria
+a meal card is assigned to an individual studenstwhen a meal card is issued
+th balance is set to the number of points if the student does not specify the number of points
+then inital balance is set to 100 points pints assigned to each item are a whole number
+a student can purchase additionla points at any time
+points are deducted when you buy food
