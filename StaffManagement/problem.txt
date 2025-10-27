@@ -1,0 +1,6 @@
+Problem Statement: University Staff Management System
+
+A university wants to build a simple system to manage information about its staff members.
+There are different types of staff — Lecturers, Administrators, and Researchers — who all share some common details but also have unique behaviors.
+
+You will design a class hierarchy using inheritance, encapsulation, method overriding, method overloading, and interfaces.
